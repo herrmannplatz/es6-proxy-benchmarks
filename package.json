@@ -1,0 +1,23 @@
+{
+  "name": "es6-proxy-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "benchmark.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrmannplatz/es6-proxy-benchmarks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herrmannplatz/es6-proxy-benchmarks/issues"
+  },
+  "homepage": "https://github.com/herrmannplatz/es6-proxy-benchmarks#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
